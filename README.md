@@ -17,3 +17,7 @@ Simple flappy bird clone.
 - Object pooling
 - Unity New Input System
 - Event-driven architecture to keep the code decoupled
+
+ ## Links
+ 
+ Try it on itch.io: https://nicomironoff.itch.io/the-cave
